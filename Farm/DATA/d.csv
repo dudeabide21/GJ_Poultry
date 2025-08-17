@@ -1,4 +1,4 @@
-timestamp,device_id,weight
+timestamp,device_id,raw_weight_kg
 2025-08-17 06:00:00,farm_scale_01,0.024835707650561634
 2025-08-17 06:00:10,farm_scale_01,-0.006913215058559233
 2025-08-17 06:00:20,farm_scale_01,0.032384426905034625
