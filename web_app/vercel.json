@@ -1,0 +1,11 @@
+{
+    "headers": [
+      {
+        "source": "/farm-weight-firmware/scale.bin",
+        "headers": [
+          { "key": "Content-Type", "value": "application/octet-stream" }
+        ]
+      }
+    ]
+  }
+  
