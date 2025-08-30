@@ -1,4 +1,4 @@
-raw_weight_kg,Timestamp,Chick,Diet
+raw_weight_g,Timestamp,Chick,Diet
 42,0,1,1
 51,2,1,1
 59,4,1,1
