@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__executeCode",
+      "Bash(python generate_tables.py)",
+      "Bash(python generate_publication_tables.py)"
+    ]
+  }
+}

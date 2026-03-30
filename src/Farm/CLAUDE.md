@@ -15,8 +15,8 @@ IMPORTANT ACADEMIC CONSTRAINTS
 - Be critical and technically honest; do not just agree with weak ideas
 - Keep the tone research-grade and not dumbed down
 
-CURRENT REPORT / PROJECT DIRECTORY STRUCTURE
-Use this exact structure and capitalization:
+CURRENT REPORT DIRECTORY STRUCTURE FOR LATEX
+Use this exact structure and capitalization, FOR LATEX USE:
 
 root/
 ├── Images/
